@@ -1,0 +1,9 @@
+- Base : chứa file chỉnh sửa mặt định thẻ hoặc thư viện
+
+-Helper : chứa file variable, mixin, extend, function....
+
+- Component : chứa file phần tử nhỏ bên trong giao diện : button, card, dropdown, link....
+
+- layouts : chứa file thành phần lớn cấu tạo từ nhiều thành phần nhỏ : header, carousel
+
+- pages : chứa những file cho 1 page cụ thể
